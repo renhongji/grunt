@@ -1,0 +1,23 @@
+{
+  "name": "jquery-bootstrap-in-action",
+  "version": "0.0.0",
+  "authors": [
+    "renhongji <renhongji@qq.com>"
+  ],
+  "description": "test bower by using jquer & bootstrap",
+  "keywords": [
+    "jquery",
+    "bootstrap"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.4"
+  }
+}
